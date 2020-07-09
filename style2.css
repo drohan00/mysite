@@ -1,0 +1,14 @@
+body{
+background-image: url(https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/fc4sppa0sr0x5kd6zpgq);
+text-align: left;
+font-family: 'roboto', sans-serif;
+background-color: rgb(21, 84, 201);
+color: orange;
+
+}
+ul{
+    list-style-type:square;
+    list-style-image: url(https://sportslogohistory.com/wp-content/uploads/2017/12/seattle_seahawks_2012-pres.png);
+list-style-position: inside;
+
+}
